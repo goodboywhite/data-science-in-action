@@ -6,6 +6,10 @@
 
 <https://www.sli.do/>
 
+## 共用筆記
+
+<https://colab.research.google.com/drive/14aBlF4MytZBKUewbicbK1etpXfzHuj7n>
+
 ## 課程投影片
 
 - [Getting Data from Databases](https://yaojenkuo.io/data-science-in-action/getting-data-from-databases#/)

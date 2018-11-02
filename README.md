@@ -6,6 +6,11 @@
 
 <https://www.sli.do/>
 
-## 課程投影片（html）
+## 課程投影片
 
 - [Getting Data from Databases](https://yaojenkuo.io/data-science-in-action/getting-data-from-databases#/)
+
+## 延伸閱讀
+
+- [進擊的資料科學](https://www.datainpoint.com/data-science-in-action/)
+- [進擊的資料科學@Medium](https://medium.com/datainpoint/data-science-in-action/home)

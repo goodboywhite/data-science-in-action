@@ -10,9 +10,19 @@
 
 <https://colab.research.google.com/drive/14aBlF4MytZBKUewbicbK1etpXfzHuj7n>
 
-## 課程投影片
+## 課程投影片（html 格式）
 
 - [Getting Data from Databases](https://yaojenkuo.io/data-science-in-action/getting-data-from-databases#/)
+- [Manipulating Data](https://yaojenkuo.io/data-science-in-action/manipulating-data#/)
+
+## 課程投影片（pdf 格式）
+
+- [Getting Data from Databases](https://yaojenkuo.io/data-science-in-action/getting-data-from-databases.pdf)
+- [Manipulating Data](https://yaojenkuo.io/data-science-in-action/manipulating-data.pdf)
+
+## 課程錄影
+
+[資料科學概論課程@世新大學](https://www.youtube.com/playlist?list=PLEq7iw5uOtuW-PGoDhLE9-hqRI7gkbT6R)
 
 ## 延伸閱讀
 

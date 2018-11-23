@@ -14,11 +14,13 @@
 
 - [Getting Data from Databases](https://yaojenkuo.io/data-science-in-action/getting-data-from-databases#/)
 - [Manipulating Data](https://yaojenkuo.io/data-science-in-action/manipulating-data#/)
+- [Project: Exploring Data Analysis with Python](https://yaojenkuo.io/data-science-in-action/proj-eda-py#/)
 
 ## 課程投影片（pdf 格式）
 
 - [Getting Data from Databases](https://yaojenkuo.io/data-science-in-action/getting-data-from-databases.pdf)
 - [Manipulating Data](https://yaojenkuo.io/data-science-in-action/manipulating-data.pdf)
+- [Project: Exploring Data Analysis with Python](https://yaojenkuo.io/data-science-in-action/proj-eda-py.pdf)
 
 ## 課程錄影
 

@@ -23,7 +23,7 @@
 - [Getting Data from Databases](https://yaojenkuo.io/data-science-in-action/getting-data-from-databases.pdf)
 - [Manipulating Data](https://yaojenkuo.io/data-science-in-action/manipulating-data.pdf)
 - [Project: Exploring Data Analysis with Python](https://yaojenkuo.io/data-science-in-action/proj-eda-py.pdf)
-- [Project: Exploring Data Analysis with Python](https://yaojenkuo.io/data-science-in-action/proj-eda-r.pdf)
+- [Project: Exploring Data Analysis with R](https://yaojenkuo.io/data-science-in-action/proj-eda-r.pdf)
 
 ## 課程錄影
 
